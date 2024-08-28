@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA and Other Technical-Skills**
 
-- 📫 How to reach me **aditilakhan.official@gmail.com**
+- 📫 How to reach me: **aditilakhan.official@gmail.com**
 
 - ⚡ Fun fact **A learner & a tech-enthusiast**
 
