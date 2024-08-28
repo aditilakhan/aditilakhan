@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Aditi Lakhan</h1>
+<h1 align="center">Hi there 👋, I'm Aditi </h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aditilakhan&label=Profile%20views&color=0e75b6&style=flat" alt="aditilakhan"/></p>
 
 - 🔭 I’m currently working on **creating small projects**
