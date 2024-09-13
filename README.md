@@ -21,6 +21,7 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23CC9966?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditilakhan)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2311B44C?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aditi_lakhan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F7DF1E?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/aditi_lakhan)
+[![Sololearn](https://img.shields.io/badge/Sololearn-%23ADD8E6?style=flat-square&logo=sololearn&logoColor=black)](https://www.sololearn.com/profile/32237536/?ref=app)
 
 </div>
 
@@ -32,7 +33,7 @@
   </a>
 </p>
 
-# 📊 GitHub Statistics:
+## 📊 GitHub Statistics:
 
 |                        |                       |
 |:----------------------:|:---------------------:|
