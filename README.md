@@ -1,5 +1,3 @@
-<h1 align="center"> Hi there, I'm Aditi👋🏻 </h1>
-
 <div align="right">
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=aditilakhan&icon=0&color=12)](https://visitcount.itsvg.in)
