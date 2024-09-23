@@ -4,8 +4,6 @@
 
 </div>
 
-🔭 Key focus : I'm actively working on small projects
-
 🌱 Growth path : Currently solidifying my coding foundations
 
 📫 How to reach me : aditilakhan.official@gmail.com
