@@ -16,6 +16,7 @@
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23CC9966?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditilakhan)
 [![Sololearn](https://img.shields.io/badge/Sololearn-%23ADD8E6?style=flat-square&logo=sololearn&logoColor=black)](https://www.sololearn.com/profile/32237536/?ref=app)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%23ADD8E6?style=flat-square&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/aditi_lakhan)
 
 </div>
 
