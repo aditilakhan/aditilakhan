@@ -1,6 +1,6 @@
 <div align="right">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=aditilakhan&icon=0&color=12)](https://visitcount.itsvg.in)
+![Profile Views](https://visitcount.itsvg.in/api?id=aditilakhan&label=Profile%20Views&color=12&icon=0&pretty=true)
 
 </div>
 
