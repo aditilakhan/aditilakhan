@@ -1,9 +1,3 @@
-<div align="right">
-
-![Profile Views](https://visitcount.itsvg.in/api?id=aditilakhan&label=Profile%20Views&color=12&icon=0&pretty=true)
-
-</div>
-
 🌱 Growth path : Currently solidifying my coding foundations
 
 📫 How to reach me : aditilakhan.official@gmail.com
