@@ -1,6 +1,6 @@
 🌱 Growth path : Currently solidifying my coding foundations
 
-📫 How to reach me : aditilakhan.official@gmail.com
+📫 How to reach me : aditilakhan2003@gmail.com
 
 ⚡ Fun fact : A tech-enthusiast 
 
