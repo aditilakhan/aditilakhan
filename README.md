@@ -2,7 +2,7 @@
 
 📫 How to reach me : aditilakhan2003@gmail.com
 
-⚡ Fun fact : A tech-enthusiast 
+⚡ Fun fact : A tech-enthusiast | Passionate Full-Stack Web Developer 
 
 <div align="left">
 
@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,mysql,mongodb,react,javascript,django,canva,figmapentaho&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,mysql,mongodb,react,javascript,django,canva,figma,git,githubpentaho&perline=5" />
   </a>
 </p>
 
