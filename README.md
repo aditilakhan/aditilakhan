@@ -1,14 +1,13 @@
-🌱 Growth path : Currently solidifying my coding foundations & aws
+🌱 Growth path : Currently solidifying my coding foundations in full stack web development & aws
 
 📫 How to reach me : aditilakhan2003@gmail.com
 
-⚡ Fun fact : A tech-enthusiast | Passionate Full-Stack Web Developer 
+⚡ Fun fact : A tech-enthusiast | Aspiring Full-Stack Web Developer 
 
 <div align="left">
 
 ## 🔗 Connect with me: 
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23CC9966?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditilakhan)
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aditilakhan2003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/aditilakhan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/aditi-lakhan-4993ba259)
@@ -19,7 +18,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,mysql,mongodb,react,javascript,django,canva,figma,git,githubpentaho&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,mysql,mongodb,react,javascript,django,canva,figma,git,github,linuxpentaho&perline=5" />
   </a>
 </p>
 
