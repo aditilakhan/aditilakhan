@@ -1,4 +1,4 @@
-🌱 Growth path : Currently solidifying my coding foundations in full stack web development & aws
+🌱 Growth path : Currently solidifying my coding foundations in Development & Cybersecurity 
 
 📫 How to reach me : aditilakhan2003@gmail.com
 
