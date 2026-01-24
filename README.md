@@ -2,7 +2,7 @@
 
 📫 How to reach me : aditilakhan2003@gmail.com
 
-⚡ Fun fact : Software Dev | Aspiring Full-Stack Web Developer 
+⚡ Fun fact :  Full-Stack Developer 
 
 <div align="left">
 
