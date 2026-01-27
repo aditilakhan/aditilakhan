@@ -18,9 +18,10 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,mysql,mongodb,react,javascript,django,canva,figma,git,github pentaho&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,mysql,mongodb,react,javascript,django,canva,figma,git,github&perline=5" />
   </a>
 </p>
+
 
 ## 📊 GitHub Statistics:
 
