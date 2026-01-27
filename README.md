@@ -47,10 +47,10 @@
 ## 🎖️ GitHub Trophies:
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aditilakhan)](https://github.com/aditilakhan)
-
+  <a href="https://github.com/aditilakhan">
+    <img src="https://github-profile-trophy.vercel.app/?username=aditilakhan&theme=onedark&no-frame=true&row=1&column=6" />
+  </a>
 </div>
-<div align="center">
+
 
 
