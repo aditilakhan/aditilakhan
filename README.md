@@ -1,8 +1,8 @@
-🌱 Growth path : Currently solidifying my coding foundations in Development & DA
+🌱 Growth path : Currently solidifying my coding foundations in Development & Data Analysis
 
 📫 How to reach me : aditilakhan2003@gmail.com
 
-⚡ Fun fact :  Full Stack Developer 
+⚡ Fun fact :  A tech-enthusiast
 
 <div align="left">
 
