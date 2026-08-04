@@ -1,4 +1,4 @@
-🌱 Growth path : Currently solidifying my coding foundations in Development & Data Analysis
+🌱 Growth path : Currently solidifying my coding foundations in Web Development
 
 📫 How to reach me : aditilakhan2003@gmail.com
 
